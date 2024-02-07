@@ -1,6 +1,7 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
-[ChatterBOX](https://github.com/nj-tan/ChatterBOX/assets/101045346/f884f614-2cfd-4885-b2e2-16f63539810a)
+![ChatterBOX](https://github.com/nj-tan/MERN-ChatterBOX/assets/101045346/4f646356-889f-4f0f-b5d1-bbe64f6d31ea)
+
 
 
 Features:
